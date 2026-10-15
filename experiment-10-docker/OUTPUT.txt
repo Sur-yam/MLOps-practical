@@ -1,0 +1,9 @@
+Experiment 10 — Docker environment check
+
+Check:
+PowerShell Get-Command docker
+
+Captured result:
+docker command not found
+
+Docker Engine/Desktop was unavailable in the execution environment. The Dockerfile and build/run instructions are included, but an image build, container startup, and container health check were not executed.
