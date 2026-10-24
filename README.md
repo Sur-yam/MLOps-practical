@@ -13,13 +13,6 @@ This repository is the practical record for a twelve-part MLOps laboratory. Open
 | 03 | Dataset versioning with DVC | [Experiment 03](./experiment-03-dvc/README.md) |
 | 04 | Data validation and processing pipeline | [Experiment 04](./experiment-04-data-pipeline/README.md) |
 | 05 | Feature management and feature-store concepts | [Experiment 05](./experiment-05-feature-store/README.md) |
-| 06 | Model training and experiment tracking with MLflow | [Experiment 06](./experiment-06-mlflow/README.md) |
-| 07 | Baseline model and hyperparameter search | [Experiment 07](./experiment-07-model-selection/README.md) |
-| 08 | Unit testing for data validation | [Experiment 08](./experiment-08-testing/README.md) |
-| 09 | Continuous integration with GitHub Actions | [Experiment 09](./experiment-09-ci/README.md) |
-| 10 | Containerization with Docker | [Experiment 10](./experiment-10-docker/README.md) |
-| 11 | REST API model serving | [Experiment 11](./experiment-11-rest-api/README.md) |
-| 12 | Integrated MLOps workflow and results | [Experiment 12](./experiment-12-integrated-workflow/README.md) |
 
 ## Run the Python practicals
 
